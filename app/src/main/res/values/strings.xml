@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ezy Search</string>
+    <string name="search_string">Search something</string>
+    <string name="search">......type here</string>
+    <string name="go">Go</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading</string>
+    <string name="creator">Created by Adetola</string>
+    <string name="fail_message">Failed to load pages!!! please try again...</string>
+</resources>
